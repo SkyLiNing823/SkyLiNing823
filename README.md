@@ -3,8 +3,8 @@ I am a bachelor student of the Department of Information Management and Finance 
 Nice to meet you!
 
 I have experienced in:
-Front-end development 
-Line/Discord Bot development 
+Front-end development                 
+Line/Discord Bot development            
 Web Scraping and further application 
 ML/DL related research 
 Data analysis research
