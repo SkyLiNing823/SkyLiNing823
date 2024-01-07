@@ -10,7 +10,7 @@ I am a bachelor student of the Department of Information Management and Finance 
 * Web Scraping and further application 
 * ML/DL related research 
 * Data analysis research
-* Data de-anonymization competition (PWS 2022 [https://www.iwsec.org/pws/2022/index_e.html])
+* Data de-anonymization competition ([PWS Cup 2022](https://www.iwsec.org/pws/2022/index_e.html))
 
 ---
 
