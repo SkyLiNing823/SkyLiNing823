@@ -14,7 +14,7 @@ I am a bachelor student of the Department of Information Management and Finance 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLiNing823&layout=donuts&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLiNing823&layout=donut&size_weight=0&count_weight=1)
 
 ---
 ## Contact Information:
