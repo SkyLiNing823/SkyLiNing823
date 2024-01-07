@@ -1,13 +1,20 @@
 ### Hi, this is SkyLiNing823😎
 I am a bachelor student of the Department of Information Management and Finance (Program of Information Management) at National Yang Ming Chiao Tung University.
+
 Nice to meet you!
 
 I have experienced in:
-Front-end development                 
-Line/Discord Bot development            
+
+Front-end development  
+
+Line/Discord Bot development   
+
 Web Scraping and further application 
+
 ML/DL related research 
+
 Data analysis research
+
 Data de-anonymization competition (PWS 2022 [https://www.iwsec.org/pws/2022/index_e.html])
 
 
