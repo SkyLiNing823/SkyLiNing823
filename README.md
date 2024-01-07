@@ -1,7 +1,9 @@
 ### Hi, this is SkyLiNing823😎
 I am a bachelor student of the Department of Information Management and Finance (Program of Information Management) at National Yang Ming Chiao Tung University.
 
-Nice to meet you!
+**Nice to meet you!**
+
+-
 
 I have experienced in:
 
