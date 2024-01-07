@@ -1,4 +1,4 @@
-### Hi, here is SkyLiNing823😎
+### Hi, this is SkyLiNing823😎
 I am a bachelor student of the Department of Information Management and Finance (Program of Information Management) at National Yang Ming Chiao Tung University.
 Nice to meet you!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLiNing823&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
