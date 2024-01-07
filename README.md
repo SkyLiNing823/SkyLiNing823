@@ -18,7 +18,7 @@ I am a bachelor student of the Department of Information Management and Finance 
 
 ---
 ## Contact Information:
-* [EMAIL](flamesky823@gmail.com)
+* [EMAIL](mailto:flamesky823@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/tien-ning-lee-96a04b252/)
   
 <!--
