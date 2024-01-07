@@ -19,9 +19,9 @@ I have experienced in:
 
 ---
 # Contact Information:
-* EMAIL[flamesky823@gmail.com]
-*
-*
+* [EMAIL](flamesky823@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/tien-ning-lee-96a04b252/)
+  
 <!--
 **SkyLiNing823/SkyLiNing823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
