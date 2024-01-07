@@ -4,8 +4,7 @@ I am a bachelor student of the Department of Information Management and Finance 
 **Nice to meet you!**
 
 ---
-
-I have experienced in:
+## Experienced:
 * Front-end development  
 * Line/Discord Bot development   
 * Web Scraping and further application 
@@ -14,11 +13,9 @@ I have experienced in:
 * Data de-anonymization competition (PWS 2022 [https://www.iwsec.org/pws/2022/index_e.html])
 
 ---
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLiNing823&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
-# Contact Information:
+## Contact Information:
 * [EMAIL](flamesky823@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/tien-ning-lee-96a04b252/)
   
