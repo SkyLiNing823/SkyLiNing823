@@ -5,7 +5,7 @@ I am a bachelor student of the Department of Information Management and Finance 
 
 ---
 ## Experienced:
-* Front-end development  
+* Full-stack development  
 * Line/Discord Bot development   
 * Web Scraping and further application 
 * ML/DL related research 
