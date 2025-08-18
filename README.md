@@ -1,5 +1,5 @@
 # Hi, this is SkyLiNing823😎
-I am a bachelor student of the Department of Information Management and Finance (Program of Information Management) at National Yang Ming Chiao Tung University.
+I am an incoming M.S. student in Electrical and Computer Engineering at UC San Diego, with interests in Software Development, Machine Learning & Data Science, and Web Development.
 
 **Nice to meet you!**
 
