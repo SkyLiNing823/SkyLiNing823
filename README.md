@@ -14,9 +14,6 @@ I am currently pursuing my M.S. in Electrical and Computer Engineering (Machine 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLiNing823&layout=donut&size_weight=0.5&count_weight=0.5)
-
----
 ## Contact Information:
 * [EMAIL](mailto:tienninglee@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/tien-ning-lee-96a04b252/)
