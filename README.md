@@ -1,4 +1,4 @@
-# Hi, this is Sky😎
+# Hi, this is Sky 😎
 I am currently pursuing my M.S. in Electrical and Computer Engineering (Machine Learning & Data Science Track) at UC San Diego. My main focus is Full-stack Development and Applied Machine Learning.
 
 **Nice to meet you!**
