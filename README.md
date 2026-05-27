@@ -1,22 +1,25 @@
 # Hi, this is Sky 😎
 
-I am an M.S. student in Electrical and Computer Engineering, Machine Learning & Data Science Track, at UC San Diego, focusing on applied machine learning, recommender systems, MLOps, and full-stack AI products.
+I am an M.S. student in Electrical and Computer Engineering, Machine Learning & Data Science Track, at UC San Diego, focusing on Applied Machine Learning, AI Systems, and Full-Stack AI Products.
 
-I enjoy building practical AI systems that connect models, data pipelines, backend services, and user-facing applications. My experience spans recommender systems, AI research, quantitative modeling, and full-stack AI applications.
+I enjoy building practical AI systems that connect machine learning models, data pipelines, backend services, and user-facing applications. My interests include LLM applications, recommender systems, MLOps, and Physical AI, with a broader focus on turning AI models into reliable and useful products.
 
-Currently, I am especially interested in applied ML engineering, recommender systems, AI products, MLOps, and data-driven user experiences.
+My experience spans recommender systems, AI research, quantitative modeling, and full-stack AI applications. I have worked on projects involving trustworthy recommendation, adversarial robustness, LLM-powered applications, and end-to-end web development.
+
+Currently, I am especially interested in Applied ML Engineering, AI products, recommender systems, MLOps, and robotics-related AI systems.
 
 ---
 
 ## Interests
 
 - Applied Machine Learning
+- AI Systems
+- LLM Applications
 - Recommender Systems
 - MLOps
-- Full-Stack AI Applications
-- Generative AI Products
-- Quantitative Modeling
+- Full-Stack AI Products
 - Physical AI / Robotics
+- Data-Driven User Experiences
 
 ---
 
@@ -31,7 +34,7 @@ Currently, I am especially interested in applied ML engineering, recommender sys
 
 ## Featured Work
 
-I am currently updating my personal projects and writing notes on applied ML, recommender systems, and AI products.
+I am currently updating my personal projects and writing notes on applied ML, recommender systems, AI products, and Physical AI.
 
 Personal site: [skylining.dev](https://skylining.dev)
 
